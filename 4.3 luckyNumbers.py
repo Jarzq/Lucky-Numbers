@@ -45,4 +45,4 @@ with open("dane (1).txt", "r") as file:
             count += 1
 
 
-    print("liczb, które są jednocześnie szczęśliwe i pierwsze jest: ", count)              #wyświetlam wynik
+    print("liczb, które są jednocześnie szczęśliwe i pierwsze jest: ", count)              #wyświetlam wynik (który jest równy 56) :D
